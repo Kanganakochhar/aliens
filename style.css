@@ -1,0 +1,35 @@
+body
+{
+ font-family: Arial, Helvetica, sans-serif;
+ background:#5442f5;
+}
+.header_div
+{
+    background:#ecf542;
+    color:#088534 ;
+}
+.header_div p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkviolet;
+    letter-spacing:2px;
+    font-size:15px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top : 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer {
+    position:fixed;
+    color:black;
+   bottom: 0;
+   width: 100%;
+   font-size:18px;
+   background-color:#de0965;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(28, 25, 25);
+}
